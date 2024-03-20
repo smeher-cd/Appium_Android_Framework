@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CommonCapabilities",
+    "caps": {
+      "username": "Sachidananda",
+      "accessKey": "208326c4-6c4e-42e9-93ef-7bb772cf923f"
+    }
+  },
+  {
+    "name": "DeviceAndroidApp",
+    "caps": {
+      "platformName": "Android",
+      "platformVersion": "^(12).*",
+      "deviceName": "Samsung.*Galaxy.*",
+      "username": "",
+      "accessKey": "",
+      "deviceOrientation": "PORTRAIT",
+      "autoAcceptAlerts": "true",
+      "name": "Actual name will be replaced at runtime",
+      "networkCapture": "true",
+      "app": "storage:filename=IKEA_Home_smart.apk",
+      "sessionCreationRetry": 5,
+      "sessionCreationTimeout": "900000"
+    }
+  }
+]
